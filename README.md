@@ -1,4 +1,4 @@
-# Data science projects
+# Machine learning projects
 
 In this repository I am going to share with you 2 machine learning projects that will help you apply the theoritical knowledge that you have in machine learning on real world datasets.
 
